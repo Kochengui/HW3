@@ -1,0 +1,15 @@
+E:\Users\X\Desktop\hw3\cYbe\obj\Debug\net6.0\cYbe.csproj.AssemblyReference.cache
+E:\Users\X\Desktop\hw3\cYbe\obj\Debug\net6.0\cYbe.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\X\Desktop\hw3\cYbe\obj\Debug\net6.0\cYbe.AssemblyInfoInputs.cache
+E:\Users\X\Desktop\hw3\cYbe\obj\Debug\net6.0\cYbe.AssemblyInfo.cs
+E:\Users\X\Desktop\hw3\cYbe\obj\Debug\net6.0\cYbe.csproj.CoreCompileInputs.cache
+E:\Users\X\Desktop\hw3\cYbe\bin\Debug\net6.0\cYbe.exe
+E:\Users\X\Desktop\hw3\cYbe\bin\Debug\net6.0\cYbe.deps.json
+E:\Users\X\Desktop\hw3\cYbe\bin\Debug\net6.0\cYbe.runtimeconfig.json
+E:\Users\X\Desktop\hw3\cYbe\bin\Debug\net6.0\cYbe.dll
+E:\Users\X\Desktop\hw3\cYbe\bin\Debug\net6.0\cYbe.pdb
+E:\Users\X\Desktop\hw3\cYbe\obj\Debug\net6.0\cYbe.dll
+E:\Users\X\Desktop\hw3\cYbe\obj\Debug\net6.0\refint\cYbe.dll
+E:\Users\X\Desktop\hw3\cYbe\obj\Debug\net6.0\cYbe.pdb
+E:\Users\X\Desktop\hw3\cYbe\obj\Debug\net6.0\cYbe.genruntimeconfig.cache
+E:\Users\X\Desktop\hw3\cYbe\obj\Debug\net6.0\ref\cYbe.dll
