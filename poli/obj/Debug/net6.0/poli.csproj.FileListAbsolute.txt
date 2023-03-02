@@ -1,0 +1,15 @@
+E:\Users\X\Desktop\hw3\poli\bin\Debug\net6.0\poli.exe
+E:\Users\X\Desktop\hw3\poli\bin\Debug\net6.0\poli.deps.json
+E:\Users\X\Desktop\hw3\poli\bin\Debug\net6.0\poli.runtimeconfig.json
+E:\Users\X\Desktop\hw3\poli\bin\Debug\net6.0\poli.dll
+E:\Users\X\Desktop\hw3\poli\bin\Debug\net6.0\poli.pdb
+E:\Users\X\Desktop\hw3\poli\obj\Debug\net6.0\poli.csproj.AssemblyReference.cache
+E:\Users\X\Desktop\hw3\poli\obj\Debug\net6.0\poli.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\X\Desktop\hw3\poli\obj\Debug\net6.0\poli.AssemblyInfoInputs.cache
+E:\Users\X\Desktop\hw3\poli\obj\Debug\net6.0\poli.AssemblyInfo.cs
+E:\Users\X\Desktop\hw3\poli\obj\Debug\net6.0\poli.csproj.CoreCompileInputs.cache
+E:\Users\X\Desktop\hw3\poli\obj\Debug\net6.0\poli.dll
+E:\Users\X\Desktop\hw3\poli\obj\Debug\net6.0\refint\poli.dll
+E:\Users\X\Desktop\hw3\poli\obj\Debug\net6.0\poli.pdb
+E:\Users\X\Desktop\hw3\poli\obj\Debug\net6.0\poli.genruntimeconfig.cache
+E:\Users\X\Desktop\hw3\poli\obj\Debug\net6.0\ref\poli.dll

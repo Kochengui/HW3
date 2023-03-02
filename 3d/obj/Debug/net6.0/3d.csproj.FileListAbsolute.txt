@@ -1,0 +1,15 @@
+E:\Users\X\Desktop\hw3\3d\bin\Debug\net6.0\3d.exe
+E:\Users\X\Desktop\hw3\3d\bin\Debug\net6.0\3d.deps.json
+E:\Users\X\Desktop\hw3\3d\bin\Debug\net6.0\3d.runtimeconfig.json
+E:\Users\X\Desktop\hw3\3d\bin\Debug\net6.0\3d.dll
+E:\Users\X\Desktop\hw3\3d\bin\Debug\net6.0\3d.pdb
+E:\Users\X\Desktop\hw3\3d\obj\Debug\net6.0\3d.csproj.AssemblyReference.cache
+E:\Users\X\Desktop\hw3\3d\obj\Debug\net6.0\3d.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\X\Desktop\hw3\3d\obj\Debug\net6.0\3d.AssemblyInfoInputs.cache
+E:\Users\X\Desktop\hw3\3d\obj\Debug\net6.0\3d.AssemblyInfo.cs
+E:\Users\X\Desktop\hw3\3d\obj\Debug\net6.0\3d.csproj.CoreCompileInputs.cache
+E:\Users\X\Desktop\hw3\3d\obj\Debug\net6.0\3d.dll
+E:\Users\X\Desktop\hw3\3d\obj\Debug\net6.0\refint\3d.dll
+E:\Users\X\Desktop\hw3\3d\obj\Debug\net6.0\3d.pdb
+E:\Users\X\Desktop\hw3\3d\obj\Debug\net6.0\3d.genruntimeconfig.cache
+E:\Users\X\Desktop\hw3\3d\obj\Debug\net6.0\ref\3d.dll
